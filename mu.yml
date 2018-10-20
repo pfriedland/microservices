@@ -9,4 +9,4 @@ service:
   pipeline:
     source:
       provider: GitHub
-      repo: pfriedland/pfriedland-mu-learning
+      repo: pfriedland/microservices
