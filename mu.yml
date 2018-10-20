@@ -3,7 +3,7 @@ environments:
 - name: production
 service:
   port: 80
-  healthCheck: /
+  healthEndpoint: /
   pathPatterns:
   - /*
   pipeline:
